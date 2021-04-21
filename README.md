@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou Vitor Kemuel.
+- 👀 Eu tenho interesse em me tornar um desenvolvedor de sistemas.
+- 🌱 Estou estudando na instituição de ensino superior chamada FATEC.
+- 💞️ Procuro me empenhar no meu aprendizado se aprofundando em varios temas.
