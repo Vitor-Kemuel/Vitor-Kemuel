@@ -1,6 +1,6 @@
 # **Hello World, I'm Vitor Kemuel🌎🎸**
-- 👀 Aluno do curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou estudando na instituição de ensino superior FATEC - Rio Preto.
+- 👀 Desenvolvedor de sistemas.
+- 🌱 Tecnologia em Análise e Desenvolvimento de Sistemas, FATEC - Rio Preto.
 - 💞️ "Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar".
 <div align="center">
   <a href="https://github.com/Vitor-Kemuel">
